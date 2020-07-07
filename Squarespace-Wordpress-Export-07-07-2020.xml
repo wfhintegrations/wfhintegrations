@@ -1,0 +1,3589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>WFH Integrations</title>
+    <link>https://elk-dog-dw3p.squarespace.com</link>
+    <pubDate>Mon, 29 Jun 2020 14:15:38 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>2138368450</wp:author_id>
+      <wp:author_login>wfhintegrations@gmail.com</wp:author_login>
+      <wp:author_email>wfhintegrations@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[apoorva bajaj]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[apoorva]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[bajaj]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/home</link>
+      <title>Home</title>
+      <pubDate>Tue, 30 Jun 2020 14:44:29 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="5ef9f7a74414c650913b5d7a" id="sections">
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--large
+    
+    
+      content-width--narrow
+    
+    horizontal-alignment--left
+    vertical-alignment--bottom
+     has-background
+    black'
+  data-section-id="5ef9f7a74414c650913b5d7d"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;backgroundImage&quot; : {
+    &quot;id&quot; : &quot;5efb0e7b6569d301a21751ea&quot;,
+    &quot;recordType&quot; : 2,
+    &quot;addedOn&quot; : 1593511547729,
+    &quot;updatedOn&quot; : 1593511559720,
+    &quot;workflowState&quot; : 1,
+    &quot;publishOn&quot; : 1593511547729,
+    &quot;authorId&quot; : &quot;5ef9d49a4a784c25a1894b87&quot;,
+    &quot;systemDataId&quot; : &quot;1593511548688-EX1H3ZPLMHMGAKBQJT90&quot;,
+    &quot;systemDataVariants&quot; : &quot;2500x1875,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot; : &quot;JPG&quot;,
+    &quot;mediaFocalPoint&quot; : {
+      &quot;x&quot; : 0.5,
+      &quot;y&quot; : 0.5,
+      &quot;source&quot; : 3
+    },
+    &quot;colorData&quot; : {
+      &quot;topLeftAverage&quot; : &quot;888078&quot;,
+      &quot;topRightAverage&quot; : &quot;9e7960&quot;,
+      &quot;bottomLeftAverage&quot; : &quot;716e6d&quot;,
+      &quot;bottomRightAverage&quot; : &quot;565b60&quot;,
+      &quot;centerAverage&quot; : &quot;717075&quot;,
+      &quot;suggestedBgColor&quot; : &quot;292522&quot;
+    },
+    &quot;urlId&quot; : &quot;51velpbi6t67uay9p9guqyk2m2klb9&quot;,
+    &quot;title&quot; : &quot;&quot;,
+    &quot;body&quot; : null,
+    &quot;likeCount&quot; : 0,
+    &quot;commentCount&quot; : 0,
+    &quot;publicCommentCount&quot; : 0,
+    &quot;commentState&quot; : 2,
+    &quot;unsaved&quot; : false,
+    &quot;author&quot; : {
+      &quot;id&quot; : &quot;5ef9d49a4a784c25a1894b87&quot;,
+      &quot;displayName&quot; : &quot;apoorva bajaj&quot;,
+      &quot;firstName&quot; : &quot;apoorva&quot;,
+      &quot;lastName&quot; : &quot;bajaj&quot;,
+      &quot;avatarUrl&quot; : &quot;https://static1.squarespace.com/static/images/5ef9d49c3cfb5574eceaa302&quot;,
+      &quot;bio&quot; : &quot;&quot;,
+      &quot;avatarAssetUrl&quot; : &quot;https://static1.squarespace.com/static/images/5ef9d49c3cfb5574eceaa302&quot;
+    },
+    &quot;assetUrl&quot; : &quot;https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593511548688-EX1H3ZPLMHMGAKBQJT90/ke17ZwdGBToddI8pDm48kDHPSfPanjkWqhH6pl6g5ph7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwONMR1ELp49Lyc52iWr5dNb1QJw9casjKdtTg1_-y4jz4ptJBmI9gQmbjSQnNGng/image-asset.jpeg&quot;,
+    &quot;contentType&quot; : &quot;image/jpeg&quot;,
+    &quot;items&quot; : [ ],
+    &quot;pushedServices&quot; : { },
+    &quot;pendingPushedServices&quot; : { },
+    &quot;recordTypeLabel&quot; : &quot;image&quot;,
+    &quot;originalSize&quot; : &quot;2500x1875&quot;
+  },
+  &quot;imageOverlayOpacity&quot; : 0.34,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--large&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--left&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--bottom&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--narrow&quot;,
+  &quot;customContentWidth&quot; : 50,
+  &quot;sectionTheme&quot; : &quot;black&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+      
+      <img alt="" data-src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593511548688-EX1H3ZPLMHMGAKBQJT90/ke17ZwdGBToddI8pDm48kDHPSfPanjkWqhH6pl6g5ph7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwONMR1ELp49Lyc52iWr5dNb1QJw9casjKdtTg1_-y4jz4ptJBmI9gQmbjSQnNGng/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593511548688-EX1H3ZPLMHMGAKBQJT90/ke17ZwdGBToddI8pDm48kDHPSfPanjkWqhH6pl6g5ph7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwONMR1ELp49Lyc52iWr5dNb1QJw9casjKdtTg1_-y4jz4ptJBmI9gQmbjSQnNGng/image-asset.jpeg" data-image-dimensions="2500x1875" data-image-focal-point="0.5,0.5" alt=""  data-load="false" />
+      <div data-controller="SectionBackgroundOverlayController" data-image-overlay-opacity="0.34" class="section-background-overlay"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5ef9f7a74414c650913b5d7d"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-95190527c1084332f270"><div class="sqs-block-content"><h1 style="white-space:pre-wrap;">Taking businesses to  the Cloud, and beyond. </h1><h4 style="white-space:pre-wrap;">At WFH Integrations we help you understand cloud technology and help you take the first step in making your business future ready. </h4><p class="sqsrte-large" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--medium
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5efb4dc242c14a5649f828aa"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--medium&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5efb4dc242c14a5649f828aa"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-7795d7653de415403912"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">What we do</h2></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-555865a5b24182ee0ab8"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-32caa83838a5b96cc74b"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">Helping Businesses be future ready</h3></div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-b3ba8f9fe04faea5d2a2"><div class="sqs-block-content">&nbsp;</div></div></div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-620912e76e71c08cb5a4"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">With cloud computing on the rise, we help business take the jump to cloud computing by integrating their business with a leading cloud service provider that best suits their needs.  </p><p class="" style="white-space:pre-wrap;"><a href="http://squarespace.com" target="_blank">Learn More</a></p></div></div></div></div><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-bc1dd6bac8c6c522adce"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-299693b561310e66ae3b"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">Enabling academic institutions take on new ways of learning</h3></div></div></div><div class="col sqs-col-8 span-8"><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-b8b1f9ca4ed616e967a3"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-cab65a94f07e6785d95e"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">We also enable academic institutions to take on new ways of delivering lectures to students by integrating their institution with an online classroom platform to help them conduct interactive sessions with their students </p><p class="" style="white-space:pre-wrap;"><a href="http://squarespace.com" target="_blank">Learn More</a></p></div></div></div></div></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-b0d51b09236d4e861ec2"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-d160a4db50b01112ad4b"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">Providing support to organisations for online events</h3></div></div></div><div class="col sqs-col-8 span-8"><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-904da4175a8816ea1052"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-b2b5728761f2bb4ae998"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">We help individuals and organisations organise online events of any scale and type. Right from planning to execution we provide complete IT support throughout their event. </p><p class="" style="white-space:pre-wrap;"><a href="http://squarespace.com" target="_blank">Learn More</a></p></div></div></div></div></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--large
+    
+    
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+     has-background
+    dark'
+  data-section-id="5efb4a57c1c41d14df31f668"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;backgroundImage&quot; : {
+    &quot;id&quot; : &quot;5efb4b1ba4a2840181d37de2&quot;,
+    &quot;recordType&quot; : 2,
+    &quot;addedOn&quot; : 1593527067176,
+    &quot;updatedOn&quot; : 1593527091629,
+    &quot;workflowState&quot; : 1,
+    &quot;publishOn&quot; : 1593527067176,
+    &quot;authorId&quot; : &quot;5ef9d49a4a784c25a1894b87&quot;,
+    &quot;systemDataId&quot; : &quot;1593527069122-FISJ70UPJ3J70OGBBYFQ&quot;,
+    &quot;systemDataVariants&quot; : &quot;1181x787,100w,300w,500w,750w,1000w&quot;,
+    &quot;systemDataSourceType&quot; : &quot;JPG&quot;,
+    &quot;filename&quot; : &quot;cloud-computing-effective-business-operation-model.jpg&quot;,
+    &quot;mediaFocalPoint&quot; : {
+      &quot;x&quot; : 0.5104895104895105,
+      &quot;y&quot; : 0.25263157894736843,
+      &quot;source&quot; : 3
+    },
+    &quot;colorData&quot; : {
+      &quot;topLeftAverage&quot; : &quot;080d23&quot;,
+      &quot;topRightAverage&quot; : &quot;111821&quot;,
+      &quot;bottomLeftAverage&quot; : &quot;5d6975&quot;,
+      &quot;bottomRightAverage&quot; : &quot;4f657b&quot;,
+      &quot;centerAverage&quot; : &quot;353e48&quot;,
+      &quot;suggestedBgColor&quot; : &quot;00070f&quot;
+    },
+    &quot;urlId&quot; : &quot;qroggb8ri0d3qyz25iikhbggq0q6zb&quot;,
+    &quot;title&quot; : &quot;&quot;,
+    &quot;body&quot; : null,
+    &quot;likeCount&quot; : 0,
+    &quot;commentCount&quot; : 0,
+    &quot;publicCommentCount&quot; : 0,
+    &quot;commentState&quot; : 2,
+    &quot;unsaved&quot; : false,
+    &quot;author&quot; : {
+      &quot;id&quot; : &quot;5ef9d49a4a784c25a1894b87&quot;,
+      &quot;displayName&quot; : &quot;apoorva bajaj&quot;,
+      &quot;firstName&quot; : &quot;apoorva&quot;,
+      &quot;lastName&quot; : &quot;bajaj&quot;,
+      &quot;avatarUrl&quot; : &quot;https://static1.squarespace.com/static/images/5ef9d49c3cfb5574eceaa302&quot;,
+      &quot;bio&quot; : &quot;&quot;,
+      &quot;avatarAssetUrl&quot; : &quot;https://static1.squarespace.com/static/images/5ef9d49c3cfb5574eceaa302&quot;
+    },
+    &quot;assetUrl&quot; : &quot;https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593527069122-FISJ70UPJ3J70OGBBYFQ/ke17ZwdGBToddI8pDm48kOMThVQ9x2yp0W56cccQPnEUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKckZJx6rxT2gvXtPHyGn_sWcLpM6JCPJ9Mi2iiXxnzZ0j6kwnbySmENQqzzpYClhi3/cloud-computing-effective-business-operation-model.jpg&quot;,
+    &quot;contentType&quot; : &quot;image/jpeg&quot;,
+    &quot;items&quot; : [ ],
+    &quot;pushedServices&quot; : { },
+    &quot;pendingPushedServices&quot; : { },
+    &quot;recordTypeLabel&quot; : &quot;image&quot;,
+    &quot;originalSize&quot; : &quot;1181x787&quot;
+  },
+  &quot;imageOverlayOpacity&quot; : 0.52,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--large&quot;,
+  &quot;customSectionHeight&quot; : 85,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--custom&quot;,
+  &quot;customContentWidth&quot; : 67,
+  &quot;sectionTheme&quot; : &quot;dark&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+    
+  
+>
+  <div class="section-background">
+  
+    
+      
+      <img alt="" data-src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593527069122-FISJ70UPJ3J70OGBBYFQ/ke17ZwdGBToddI8pDm48kOMThVQ9x2yp0W56cccQPnEUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKckZJx6rxT2gvXtPHyGn_sWcLpM6JCPJ9Mi2iiXxnzZ0j6kwnbySmENQqzzpYClhi3/cloud-computing-effective-business-operation-model.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593527069122-FISJ70UPJ3J70OGBBYFQ/ke17ZwdGBToddI8pDm48kOMThVQ9x2yp0W56cccQPnEUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKckZJx6rxT2gvXtPHyGn_sWcLpM6JCPJ9Mi2iiXxnzZ0j6kwnbySmENQqzzpYClhi3/cloud-computing-effective-business-operation-model.jpg" data-image-dimensions="1181x787" data-image-focal-point="0.5104895104895105,0.25263157894736843" alt="cloud-computing-effective-business-operation-model.jpg"  data-load="false" />
+      <div data-controller="SectionBackgroundOverlayController" data-image-overlay-opacity="0.52" class="section-background-overlay"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+       style="width: 67%;" 
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5efb4a57c1c41d14df31f668"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-c99efb48dc95a4a66614"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">“I don’t need a hard disk in my computer if I can get to the server faster…Carrying around these non connected computers is byzantine by comparison”</h2><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-large">— Steve Jobs</p></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--inset
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5efb4be1a8f29a67c7a21c99"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--inset&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5efb4be1a8f29a67c7a21c99"><div class="row sqs-row"><div class="col sqs-col-5 span-5"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-2354eaf1a64800059c80"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">Request a Call back</h3><p class="" style="white-space:pre-wrap;">Any questions about us or about our services? Don’t hesitate to contact us at any time via email or at +91 8779629724. You can also drop in your queries using the Enquiry form. </p></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-72a11f9fcb2326fafd7f"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block form-block sqs-block-form" data-block-type="9" id="block-a72b1cf39f18e5f94b17"><div class="sqs-block-content">
+
+
+
+
+
+<div class="form-wrapper"
+  
+>
+  
+  <div class="form-inner-wrapper">
+    <form
+       data-form-id="5efb4be1a8f29a67c7a21c97"
+       data-success-redirect=""
+       autocomplete="on"
+       
+       method="POST"
+       action="https://elk-dog-dw3p.squarespace.com"
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '5efb4be1a8f29a67c7a21c97',
+      collectionId: '5ef9f7a74414c650913b5d7b',
+      objectName: 'page-section-5efb4be1a8f29a67c7a21c99'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_1_1553888888520_3744" class="form-item fields name required">
+                
+            <legend class="title">
+              Name
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </legend>
+          
+                
+                <div class="field first-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="fname"
+                        x-autocompletetype="given-name"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="First"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">First Name</span>
+                  </label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="lname"
+                        x-autocompletetype="surname"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="Last"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">Last Name</span>
+                  </label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_1_1553888888520_3745" class="form-item field email required">
+                
+            <label class="title" for="email-yui_3_17_2_1_1553888888520_3745-field">
+              Email
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element"
+                    id="email-yui_3_17_2_1_1553888888520_3745-field"
+                    name="email"
+                    type="email"
+                    autocomplete="email"
+                    spellcheck="false"
+                    
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-yui_3_17_2_1_1553888888520_3747" class="form-item field textarea required">
+                
+            <label class="title" for="textarea-yui_3_17_2_1_1553888888520_3747-field">
+              Message
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <textarea
+                    class="field-element "
+                    id="textarea-yui_3_17_2_1_1553888888520_3747-field"
+                    
+                    aria-required="true"
+                ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div data-animation-role="button"
+        class="
+          form-button-wrapper
+          
+            form-button-wrapper--align-left
+          
+        "
+      >
+        <input class="button sqs-system-button sqs-editable-button" type="submit" value="Send"/>
+      </div>
+      
+
+      
+      <div class="hidden form-submission-text">Thank you!</div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/about</link>
+      <title>About Us</title>
+      <pubDate>Tue, 30 Jun 2020 14:16:29 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="5ef9f93ef6302b5d710b9018" id="sections">
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--medium
+    
+    horizontal-alignment--left
+    vertical-alignment--bottom
+     has-background
+    dark'
+  data-section-id="5ef9f93ef6302b5d710b901b"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;backgroundImage&quot; : {
+    &quot;id&quot; : &quot;5efa4529ef73843ede5a83b2&quot;,
+    &quot;recordType&quot; : 2,
+    &quot;addedOn&quot; : 1593460009873,
+    &quot;updatedOn&quot; : 1593513628247,
+    &quot;workflowState&quot; : 1,
+    &quot;publishOn&quot; : 1593460009873,
+    &quot;authorId&quot; : &quot;5ef9d49a4a784c25a1894b87&quot;,
+    &quot;systemDataId&quot; : &quot;1593460010349-R402E5FWU6TJQVCEEYXI&quot;,
+    &quot;systemDataVariants&quot; : &quot;2500x1406,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot; : &quot;JPG&quot;,
+    &quot;mediaFocalPoint&quot; : {
+      &quot;x&quot; : 0.4370629370629371,
+      &quot;y&quot; : 0.5093167701863355,
+      &quot;source&quot; : 3
+    },
+    &quot;colorData&quot; : {
+      &quot;topLeftAverage&quot; : &quot;9a9188&quot;,
+      &quot;topRightAverage&quot; : &quot;141413&quot;,
+      &quot;bottomLeftAverage&quot; : &quot;252220&quot;,
+      &quot;bottomRightAverage&quot; : &quot;161513&quot;,
+      &quot;centerAverage&quot; : &quot;87766d&quot;,
+      &quot;suggestedBgColor&quot; : &quot;9e948b&quot;
+    },
+    &quot;urlId&quot; : &quot;y2jswqcyjn5sn2tg58t632ztypvo0e&quot;,
+    &quot;title&quot; : &quot;&quot;,
+    &quot;body&quot; : null,
+    &quot;likeCount&quot; : 0,
+    &quot;commentCount&quot; : 0,
+    &quot;publicCommentCount&quot; : 0,
+    &quot;commentState&quot; : 2,
+    &quot;unsaved&quot; : false,
+    &quot;author&quot; : {
+      &quot;id&quot; : &quot;5ef9d49a4a784c25a1894b87&quot;,
+      &quot;displayName&quot; : &quot;apoorva bajaj&quot;,
+      &quot;firstName&quot; : &quot;apoorva&quot;,
+      &quot;lastName&quot; : &quot;bajaj&quot;,
+      &quot;avatarUrl&quot; : &quot;https://static1.squarespace.com/static/images/5ef9d49c3cfb5574eceaa302&quot;,
+      &quot;bio&quot; : &quot;&quot;,
+      &quot;avatarAssetUrl&quot; : &quot;https://static1.squarespace.com/static/images/5ef9d49c3cfb5574eceaa302&quot;
+    },
+    &quot;assetUrl&quot; : &quot;https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593460010349-R402E5FWU6TJQVCEEYXI/ke17ZwdGBToddI8pDm48kPTrHXgsMrSIMwe6YW3w1AZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0k5fwC0WRNFJBIXiBeNI5fKTrY37saURwPBw8fO2esROAxn-RKSrlQamlL27g22X2A/image-asset.jpeg&quot;,
+    &quot;contentType&quot; : &quot;image/jpeg&quot;,
+    &quot;items&quot; : [ ],
+    &quot;pushedServices&quot; : { },
+    &quot;pendingPushedServices&quot; : { },
+    &quot;recordTypeLabel&quot; : &quot;image&quot;,
+    &quot;originalSize&quot; : &quot;2500x1406&quot;
+  },
+  &quot;imageOverlayOpacity&quot; : 0.22,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--small&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--left&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--bottom&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--medium&quot;,
+  &quot;sectionTheme&quot; : &quot;dark&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+      
+      <img alt="" data-src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593460010349-R402E5FWU6TJQVCEEYXI/ke17ZwdGBToddI8pDm48kPTrHXgsMrSIMwe6YW3w1AZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0k5fwC0WRNFJBIXiBeNI5fKTrY37saURwPBw8fO2esROAxn-RKSrlQamlL27g22X2A/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593460010349-R402E5FWU6TJQVCEEYXI/ke17ZwdGBToddI8pDm48kPTrHXgsMrSIMwe6YW3w1AZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0k5fwC0WRNFJBIXiBeNI5fKTrY37saURwPBw8fO2esROAxn-RKSrlQamlL27g22X2A/image-asset.jpeg" data-image-dimensions="2500x1406" data-image-focal-point="0.4370629370629371,0.5093167701863355" alt=""  data-load="false" />
+      <div data-controller="SectionBackgroundOverlayController" data-image-overlay-opacity="0.22" class="section-background-overlay"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5ef9f93ef6302b5d710b901b"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-5fdd6d503e26a543372d"><div class="sqs-block-content"><h1 style="white-space:pre-wrap;">About Us</h1></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--medium
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    light'
+  data-section-id="5efa44d9fc3d837320d1167b"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--medium&quot;,
+  &quot;sectionTheme&quot; : &quot;light&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5efa44d9fc3d837320d1167b"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-040dabea8f2acd8c5fc4"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;">We are a small team of highly motivated individuals, based out of Mumbai, India. Starting out small in May 2020, we have expanded our service line-up to more than 10 platforms while focusing on providing the best service. We specialise in shifting your business to the cloud and providing you a seamless experience as you take a step towards making your business, future ready.</h3></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5efa2aaeef73843ede549815"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5efa2aaeef73843ede549815"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-edb91d1d619b7d3eecd2"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">Meet our Team!</h2></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-0af175ac09c1ec1ce5cc"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-4c2501d073ebf3e45a65"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-card
+            combination-animation-slide-up
+            individual-animation-none
+            individual-text-animation-none
+            image-position-left
+            
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <div
+          
+              
+              class="
+                
+                image-inset
+                
+                  content-fit
+                
+              "
+              data-animation-role="image"
+              data-description=""
+              
+  data-animation-override
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593459183682-0QNAA836PTCZVSYTT3QY/ke17ZwdGBToddI8pDm48kEpVg-ILAPna1wRh-xAJ9fRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwEv36x-EUL2-BSQ5feDhwGCbXuJBFqZ-erYzVouT8yOb9TwqchglLQOCYTRn7ZGxI/Snapseed.jpg" alt="Apoorva Bajaj - Co - FounderPassionate about innovation and technology, Apoorva is currently pursuing a Bachelors Degree in Electronics at BITS Pilani, Goa. His other interests range from cooking to painting to hardware technology and data science. He can often be found seated at his desk late at night, snack in hand, looking for the next big project to take on. " /></noscript>
+            <img data-src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593459183682-0QNAA836PTCZVSYTT3QY/ke17ZwdGBToddI8pDm48kEpVg-ILAPna1wRh-xAJ9fRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwEv36x-EUL2-BSQ5feDhwGCbXuJBFqZ-erYzVouT8yOb9TwqchglLQOCYTRn7ZGxI/Snapseed.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593459183682-0QNAA836PTCZVSYTT3QY/ke17ZwdGBToddI8pDm48kEpVg-ILAPna1wRh-xAJ9fRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwEv36x-EUL2-BSQ5feDhwGCbXuJBFqZ-erYzVouT8yOb9TwqchglLQOCYTRn7ZGxI/Snapseed.jpg" data-image-dimensions="640x640" data-image-focal-point="0.5,0.5" alt="Snapseed.jpg"  />
+            <div class="image-overlay"></div>
+          
+            </div>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  data-animation-override
+><h4 style="white-space:pre-wrap;">Apoorva Bajaj</h4><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  data-animation-override
+><p class="" style="white-space:pre-wrap;"><em>Co - Founder</em></p><p class="" style="white-space:pre-wrap;">Passionate about innovation and technology, Apoorva is currently pursuing a Bachelors Degree in Electronics at BITS Pilani, Goa. His other interests range from cooking to painting to hardware technology and data science. He can often be found seated at his desk late at night, snack in hand, looking for the next big project to take on. </p></div></div>
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-4088849698572ea0f20b"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-06bb3fd12a6ff1859beb"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-card
+            combination-animation-slide-up
+            individual-animation-none
+            individual-text-animation-none
+            image-position-right
+            
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <div
+          
+              
+              class="
+                
+                image-inset
+                
+                  content-fit
+                
+              "
+              data-animation-role="image"
+              data-description=""
+              
+  data-animation-override
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593459612491-A7QOGUKRIYF8JG9LR4ZY/ke17ZwdGBToddI8pDm48kOMbSPuSkfNxgeYCiY2KDwVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyk92omGK88x7crXopMDPhcjj2MceWAHLeUYI7Z7rBPwjdh_De1tcrTDBwwsZF6OqE/IMG_3432.jpg" alt="Aamod Pant - Co - FounderOutspoken, witty and a fellow lover of technology, Aamod is extremely diligent. He is pursuing a Bachelor of Science majoring in Computer Science at the university of Massachusetts, Amherst. His other areas of interest include space exploration, Robotics, Operating Systems and everything music. " /></noscript>
+            <img data-src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593459612491-A7QOGUKRIYF8JG9LR4ZY/ke17ZwdGBToddI8pDm48kOMbSPuSkfNxgeYCiY2KDwVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyk92omGK88x7crXopMDPhcjj2MceWAHLeUYI7Z7rBPwjdh_De1tcrTDBwwsZF6OqE/IMG_3432.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593459612491-A7QOGUKRIYF8JG9LR4ZY/ke17ZwdGBToddI8pDm48kOMbSPuSkfNxgeYCiY2KDwVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyk92omGK88x7crXopMDPhcjj2MceWAHLeUYI7Z7rBPwjdh_De1tcrTDBwwsZF6OqE/IMG_3432.jpg" data-image-dimensions="670x670" data-image-focal-point="0.5,0.5" alt="IMG_3432.jpg"  />
+            <div class="image-overlay"></div>
+          
+            </div>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  data-animation-override
+><h4 style="white-space:pre-wrap;">Aamod Pant</h4></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  data-animation-override
+><p class="" style="white-space:pre-wrap;"><em>Co - Founder</em></p><p class="" style="white-space:pre-wrap;">Outspoken, witty and a fellow lover of technology, Aamod is extremely diligent. He is pursuing a Bachelor of Science majoring in Computer Science at the university of Massachusetts, Amherst. His other areas of interest include space exploration, Robotics, Operating Systems and everything music. </p></div></div>
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>about</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/products</link>
+      <title>Products</title>
+      <pubDate>Tue, 30 Jun 2020 14:20:34 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="5ef9f9559f8c8b0df06a48dc" id="sections">
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--narrow
+    
+    horizontal-alignment--left
+    vertical-alignment--bottom
+     has-background
+    dark'
+  data-section-id="5ef9f9559f8c8b0df06a48df"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;backgroundImage&quot; : {
+    &quot;id&quot; : &quot;5efa4bb1b1e1f242994bc28c&quot;,
+    &quot;recordType&quot; : 2,
+    &quot;addedOn&quot; : 1593461681455,
+    &quot;updatedOn&quot; : 1593461694822,
+    &quot;workflowState&quot; : 1,
+    &quot;publishOn&quot; : 1593461681455,
+    &quot;authorId&quot; : &quot;5ef9d49a4a784c25a1894b87&quot;,
+    &quot;systemDataId&quot; : &quot;1593461681968-HBW3X6V23NY5DGHV1JJW&quot;,
+    &quot;systemDataVariants&quot; : &quot;2500x1646,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot; : &quot;JPG&quot;,
+    &quot;mediaFocalPoint&quot; : {
+      &quot;x&quot; : 0.5,
+      &quot;y&quot; : 0.5,
+      &quot;source&quot; : 3
+    },
+    &quot;colorData&quot; : {
+      &quot;topLeftAverage&quot; : &quot;2c2925&quot;,
+      &quot;topRightAverage&quot; : &quot;3b1c0c&quot;,
+      &quot;bottomLeftAverage&quot; : &quot;c79f7f&quot;,
+      &quot;bottomRightAverage&quot; : &quot;9b6d4a&quot;,
+      &quot;centerAverage&quot; : &quot;635c52&quot;,
+      &quot;suggestedBgColor&quot; : &quot;a6a6a8&quot;
+    },
+    &quot;urlId&quot; : &quot;liw03ixcqmqxsgn3z7q9f29nj6ek46&quot;,
+    &quot;title&quot; : &quot;&quot;,
+    &quot;body&quot; : null,
+    &quot;likeCount&quot; : 0,
+    &quot;commentCount&quot; : 0,
+    &quot;publicCommentCount&quot; : 0,
+    &quot;commentState&quot; : 2,
+    &quot;unsaved&quot; : false,
+    &quot;author&quot; : {
+      &quot;id&quot; : &quot;5ef9d49a4a784c25a1894b87&quot;,
+      &quot;displayName&quot; : &quot;apoorva bajaj&quot;,
+      &quot;firstName&quot; : &quot;apoorva&quot;,
+      &quot;lastName&quot; : &quot;bajaj&quot;,
+      &quot;avatarUrl&quot; : &quot;https://static1.squarespace.com/static/images/5ef9d49c3cfb5574eceaa302&quot;,
+      &quot;bio&quot; : &quot;&quot;,
+      &quot;avatarAssetUrl&quot; : &quot;https://static1.squarespace.com/static/images/5ef9d49c3cfb5574eceaa302&quot;
+    },
+    &quot;assetUrl&quot; : &quot;https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593461681968-HBW3X6V23NY5DGHV1JJW/ke17ZwdGBToddI8pDm48kOI1i559IYU_WKaTq-JB9vt7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0p4XabXLlNWpcJMv7FrN_NLLxAnkhViNZICZamvPltgLQld8UDTdlTLjiMT25Fg2ew/image-asset.jpeg&quot;,
+    &quot;contentType&quot; : &quot;image/jpeg&quot;,
+    &quot;items&quot; : [ ],
+    &quot;pushedServices&quot; : { },
+    &quot;pendingPushedServices&quot; : { },
+    &quot;recordTypeLabel&quot; : &quot;image&quot;,
+    &quot;originalSize&quot; : &quot;2500x1646&quot;
+  },
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot; : 50,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--left&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--bottom&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--narrow&quot;,
+  &quot;customContentWidth&quot; : 50,
+  &quot;sectionTheme&quot; : &quot;dark&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+    
+  
+>
+  <div class="section-background">
+  
+    
+      
+      <img alt="" data-src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593461681968-HBW3X6V23NY5DGHV1JJW/ke17ZwdGBToddI8pDm48kOI1i559IYU_WKaTq-JB9vt7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0p4XabXLlNWpcJMv7FrN_NLLxAnkhViNZICZamvPltgLQld8UDTdlTLjiMT25Fg2ew/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593461681968-HBW3X6V23NY5DGHV1JJW/ke17ZwdGBToddI8pDm48kOI1i559IYU_WKaTq-JB9vt7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0p4XabXLlNWpcJMv7FrN_NLLxAnkhViNZICZamvPltgLQld8UDTdlTLjiMT25Fg2ew/image-asset.jpeg" data-image-dimensions="2500x1646" data-image-focal-point="0.5,0.5" alt=""  data-load="false" />
+      <div data-controller="SectionBackgroundOverlayController" data-image-overlay-opacity="0.15" class="section-background-overlay"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5ef9f9559f8c8b0df06a48df"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-f369e3f7b2c2a7154f0e"><div class="sqs-block-content"><h1 style="white-space:pre-wrap;">Our Services</h1></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5efb11e864897d40aa04317f"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5efb11e864897d40aa04317f"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-7b058c66cddcc8a583d6"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">For Businesses</h2></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-22a78c3c7ba578b95d87"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="63.288288288288285" data-block-type="5" id="block-2be07550adf155725482"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:100%;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+                style="padding-bottom:63.28828811645508%;"
+              
+              class="
+                image-block-wrapper
+                
+          
+        
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593524560508-5D36G2U22HY4X4BHYUYI/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/image-asset.jpeg" alt="" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593524560508-5D36G2U22HY4X4BHYUYI/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593524560508-5D36G2U22HY4X4BHYUYI/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/image-asset.jpeg" data-image-dimensions="2500x3750" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="5efb414dd7cc3328f6cd0206" data-type="image" />
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-1da7a1846a13d1092daf"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;">Work From Home</h3><p style="text-align:center;white-space:pre-wrap;" class="">We enable you and your business to work from home, irrespective of your market sector. We setup remote access on your current office hardware and software to make it compatible for working from home. We help you monitor your employee’s work and monitor all work progress. </p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-7458349db0d15a116648"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-c549f8dc51f3cb0cfe2a"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="63.51351351351351" data-block-type="5" id="block-39e9901d27e62c17d5ea"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1280.0px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+                style="padding-bottom:63.513511657714844%;"
+              
+              class="
+                image-block-wrapper
+                
+          
+        
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593524688175-4N2OV3708YK4EMZZCBP5/ke17ZwdGBToddI8pDm48kF_6NUboVsiWisKCXyKbSzYUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcCvPNPiyW9m3e9QDM5lNzHIoZuYZ4b-tSQ3_BwLAQ1fY9LWHU7DfzYq28stOCYH3s/8-Ways-Cloud-Computing-Benefits-Your-Business.jpg" alt="8-Ways-Cloud-Computing-Benefits-Your-Business.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593524688175-4N2OV3708YK4EMZZCBP5/ke17ZwdGBToddI8pDm48kF_6NUboVsiWisKCXyKbSzYUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcCvPNPiyW9m3e9QDM5lNzHIoZuYZ4b-tSQ3_BwLAQ1fY9LWHU7DfzYq28stOCYH3s/8-Ways-Cloud-Computing-Benefits-Your-Business.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593524688175-4N2OV3708YK4EMZZCBP5/ke17ZwdGBToddI8pDm48kF_6NUboVsiWisKCXyKbSzYUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcCvPNPiyW9m3e9QDM5lNzHIoZuYZ4b-tSQ3_BwLAQ1fY9LWHU7DfzYq28stOCYH3s/8-Ways-Cloud-Computing-Benefits-Your-Business.jpg" data-image-dimensions="1280x764" data-image-focal-point="0.5,0.5" alt="8-Ways-Cloud-Computing-Benefits-Your-Business.jpg" data-load="false" data-image-id="5efb41cf31c84f6c34777c7a" data-type="image" />
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-cd8334ae72e46e2af9ec"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;">Shifting to the Cloud</h3><p style="text-align:center;white-space:pre-wrap;" class="">We offer cloud integration services to help you move your business to the cloud. Depending upon your requirement, we suggest an appropriate cloud service and then setup it up from scratch or move your business from existing setup to the cloud.</p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="65.09009009009009" data-block-type="5" id="block-da6cc344d2d30dc72d3d"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:100%;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+                style="padding-bottom:65.090087890625%;"
+              
+              class="
+                image-block-wrapper
+                
+          
+        
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593524482369-MGI6WJGC8MMMDVUJMXDS/ke17ZwdGBToddI8pDm48kFyD7pzB8zoMIVY5aiUuFlp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0jG2lbcDYBOeMi4OFSYem8DMb5PTLoEDdB05UqhYu-xbnSznFxIRsaAU-3g5IaylIg/image-asset.jpeg" alt="" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593524482369-MGI6WJGC8MMMDVUJMXDS/ke17ZwdGBToddI8pDm48kFyD7pzB8zoMIVY5aiUuFlp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0jG2lbcDYBOeMi4OFSYem8DMb5PTLoEDdB05UqhYu-xbnSznFxIRsaAU-3g5IaylIg/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593524482369-MGI6WJGC8MMMDVUJMXDS/ke17ZwdGBToddI8pDm48kFyD7pzB8zoMIVY5aiUuFlp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0jG2lbcDYBOeMi4OFSYem8DMb5PTLoEDdB05UqhYu-xbnSznFxIRsaAU-3g5IaylIg/image-asset.jpeg" data-image-dimensions="2500x1669" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="5efb41015fd40c471193e333" data-type="image" />
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-5d5e77ab1026201ddbb3"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;">IT Support</h3><p style="text-align:center;white-space:pre-wrap;" class="">We provide round the clock IT support for your business cloud. We help you diagnose and solve any issue and technical glitch that you might face while using the cloud. </p></div></div></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-0a0776eb3dede5a7b116"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-05a71987c3e3ed46b511"><div class="sqs-block-content">
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="medium">
+	<a href="https://forms.gle/yaoBzW5nqocijpceA" class="sqs-block-button-element--medium sqs-block-button-element" >Enquire Now</a>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    light'
+  data-section-id="5efb427ab002a11756a4a59c"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--small&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot; : &quot;light&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5efb427ab002a11756a4a59c"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-a885cab7c0f869982cb1"><div class="sqs-block-content"><h2 style="white-space:pre-wrap;">Offered Cloud Platforms</h2></div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-da54d489865bed171e68"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-5 span-5"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-b9b69cee4f726d3428b8"><div class="sqs-block-content"><p class="sqsrte-large" style="white-space:pre-wrap;">Google Suites</p><p class="sqsrte-large" style="white-space:pre-wrap;">Microsoft Azure</p><p class="sqsrte-large" style="white-space:pre-wrap;">Microsoft 365</p><p class="sqsrte-large" style="white-space:pre-wrap;">Amazon Web Services (AWS)</p></div></div></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5efb1215a40acd15fe3c683e"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5efb1215a40acd15fe3c683e"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-6f72d7b48a07e5da1c6d"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">For Academic Institutions</h2></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-df79b5e925ee395617cf"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1593519413743_22685"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-large">Conduct your classes and lectures on a completely online platform. Send lecture notes, conduct exams and give out assignments all from one place. Track course progress and student progress from teacher’s dashboard. </p><p style="text-align:center;white-space:pre-wrap;" class="">We offer complete integration and setup of the following two platforms for academic institutions and academic classes. Choose from one of the two platforms and the rest is handled by us. From setting up classrooms to adding students, we help you take your educational institution completely online. From Enquiry to Starting classes, our turn around time is less than 5 days. </p></div></div><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-7ee2d72454ef3fb1c19d"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1499.0px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+                style="padding-bottom:100.06671142578125%;"
+              
+              class="
+                image-block-wrapper
+                
+          
+        
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593519805644-GE0M8U8RIHUD9BNOVBRA/ke17ZwdGBToddI8pDm48kI0Gu2fkCAB2SjckBQdotn17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmFF4sHvmgi8rFwPHCWctdpkqLj4Z6dth-UXZTZgLUvHnR7wqSWv8pvabX_FgYZAmC/100.jpeg" alt="100.jpeg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593519805644-GE0M8U8RIHUD9BNOVBRA/ke17ZwdGBToddI8pDm48kI0Gu2fkCAB2SjckBQdotn17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmFF4sHvmgi8rFwPHCWctdpkqLj4Z6dth-UXZTZgLUvHnR7wqSWv8pvabX_FgYZAmC/100.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593519805644-GE0M8U8RIHUD9BNOVBRA/ke17ZwdGBToddI8pDm48kI0Gu2fkCAB2SjckBQdotn17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmFF4sHvmgi8rFwPHCWctdpkqLj4Z6dth-UXZTZgLUvHnR7wqSWv8pvabX_FgYZAmC/100.jpeg" data-image-dimensions="1499x1500" data-image-focal-point="0.5,0.5" alt="100.jpeg" data-load="false" data-image-id="5efb2ebca1dcc71a179926f1" data-type="image" />
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-1d549d255a213b5b6992"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;">CANVAS</h3><p style="text-align:center;white-space:pre-wrap;" class="">CANVAS by Instructure is a Learning System Management Platform that is highly customisable to suit your needs. We setup this platform for you on the basis on the specifications you require and hand over the control once the platform has been setup. We provide training sessions to help you and your colleagues make the most out of the platform. This platform is compatible with most video conferencing softwares out there so taking online classes is a breeze. Contact us for pricing and more information </p></div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="100" data-block-type="5" id="block-0a05eec9b827c4a7a580"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1600.0px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+                style="padding-bottom:100.0%;"
+              
+              class="
+                image-block-wrapper
+                
+          
+        
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593519832798-X3TCNEVTUNCKVRSKMAKV/ke17ZwdGBToddI8pDm48kMi38tw7zkfDmGvlHU-hVvIUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2drlbiNfk3EruvL6ooucMUl0-iAqFf4IJ2-8-m4UxZV6gG6v6ULRah83RgHXAWD5lbQ/google-classroom-cover.jpg" alt="google-classroom-cover.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593519832798-X3TCNEVTUNCKVRSKMAKV/ke17ZwdGBToddI8pDm48kMi38tw7zkfDmGvlHU-hVvIUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2drlbiNfk3EruvL6ooucMUl0-iAqFf4IJ2-8-m4UxZV6gG6v6ULRah83RgHXAWD5lbQ/google-classroom-cover.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593519832798-X3TCNEVTUNCKVRSKMAKV/ke17ZwdGBToddI8pDm48kMi38tw7zkfDmGvlHU-hVvIUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2drlbiNfk3EruvL6ooucMUl0-iAqFf4IJ2-8-m4UxZV6gG6v6ULRah83RgHXAWD5lbQ/google-classroom-cover.jpg" data-image-dimensions="1600x800" data-image-focal-point="0.5,0.5" alt="google-classroom-cover.jpg" data-load="false" data-image-id="5efb2ed8c4e2753a9491bf50" data-type="image" />
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-86b978c06d96dfb8084b"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;">Google Classroom</h3><p style="text-align:center;white-space:pre-wrap;" class="">Google Classroom comes as a part of Google Suite for Education. We help you configure the platform and build all the necessary features that your institution requires to conduct its day to day work. Easy user interface and intuitive UX makes this platform one of the easiest to use. Once the platform is setup we also offer training sessions to help teachers and students make the most out the platform. Contact us for pricing and more information</p></div></div></div><div class="col sqs-col-0 span-0"></div></div></div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1593519413743_48494"><div class="sqs-block-content">
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="medium">
+	<a href="https://forms.gle/yaoBzW5nqocijpceA" class="sqs-block-button-element--medium sqs-block-button-element" >Enquire Now</a>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5efb124c24786312490e1599"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5efb124c24786312490e1599"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-9aa7ddb68ff8f09615bd"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">For Online Conferences and Events</h2></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-035d27e79be57d83cad4"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="19" data-block-type="5" id="block-yui_3_17_2_1_1593522053905_24094"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-site-default
+          individual-animation-site-default
+          individual-text-animation-site-default
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:100%;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+                style="padding-bottom:19.0%;"
+              
+              class="
+                image-block-wrapper
+                
+          
+        
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593523442551-B591LBV5755RKY407UIN/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/image-asset.jpeg" alt="" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593523442551-B591LBV5755RKY407UIN/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593523442551-B591LBV5755RKY407UIN/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/image-asset.jpeg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="5efb3cf1a4a2840181d145e6" data-type="image" />
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-168e85ac8c033db70eff"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;">Think it. </h3><p style="text-align:center;white-space:pre-wrap;" class="">It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference.</p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-9c0c0bb3a66e75d48a3d"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;">Plan it.</h3><p style="text-align:center;white-space:pre-wrap;" class="">Once you know what you want to conduct, we help you plan it right from the ground up. We help you acquire an online conferencing platform, send out invites and manage registration lists. We setup the conferencing platform just for you so that you have all the features you need. </p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-ed3efa65eff8a4fdbbc6"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;">Conduct it.</h3><p style="text-align:center;white-space:pre-wrap;" class="">Once we plan it, we provide complete technical support throughout the duration of the event.We help you execute your event without any technical glitches from your side and make conducting online events a breeze. </p></div></div></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-a3737b92a54594279ed2"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-f93e5b37602e441363ec"><div class="sqs-block-content">
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="large">
+	<a href="https://forms.gle/yaoBzW5nqocijpceA" class="sqs-block-button-element--large sqs-block-button-element" >Enquire Now</a>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>products</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/latest</link>
+      <title>Latest</title>
+      <pubDate>Mon, 29 Jun 2020 20:05:54 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="5ef9f972068552405e88f583" id="sections">
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--narrow
+    
+    horizontal-alignment--left
+    vertical-alignment--bottom
+     has-background
+    dark'
+  data-section-id="5ef9f972068552405e88f586"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;backgroundImage&quot; : {
+    &quot;id&quot; : &quot;5efa47f548347d4cd74e5b7a&quot;,
+    &quot;recordType&quot; : 2,
+    &quot;addedOn&quot; : 1593460725618,
+    &quot;updatedOn&quot; : 1593460736200,
+    &quot;workflowState&quot; : 1,
+    &quot;publishOn&quot; : 1593460725618,
+    &quot;authorId&quot; : &quot;5ef9d49a4a784c25a1894b87&quot;,
+    &quot;systemDataId&quot; : &quot;1593460725676-3Q8OF09JLT8PF8EXKY0Y&quot;,
+    &quot;systemDataVariants&quot; : &quot;2500x1240,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot; : &quot;JPG&quot;,
+    &quot;mediaFocalPoint&quot; : {
+      &quot;x&quot; : 0.5,
+      &quot;y&quot; : 0.5,
+      &quot;source&quot; : 3
+    },
+    &quot;colorData&quot; : {
+      &quot;topLeftAverage&quot; : &quot;432d1c&quot;,
+      &quot;topRightAverage&quot; : &quot;533426&quot;,
+      &quot;bottomLeftAverage&quot; : &quot;7d5739&quot;,
+      &quot;bottomRightAverage&quot; : &quot;5c5c5b&quot;,
+      &quot;centerAverage&quot; : &quot;b0b7b9&quot;,
+      &quot;suggestedBgColor&quot; : &quot;432e19&quot;
+    },
+    &quot;urlId&quot; : &quot;iruoc918h8rrdna1ueloaw9byj5sqg&quot;,
+    &quot;title&quot; : &quot;&quot;,
+    &quot;body&quot; : null,
+    &quot;likeCount&quot; : 0,
+    &quot;commentCount&quot; : 0,
+    &quot;publicCommentCount&quot; : 0,
+    &quot;commentState&quot; : 2,
+    &quot;unsaved&quot; : false,
+    &quot;author&quot; : {
+      &quot;id&quot; : &quot;5ef9d49a4a784c25a1894b87&quot;,
+      &quot;displayName&quot; : &quot;apoorva bajaj&quot;,
+      &quot;firstName&quot; : &quot;apoorva&quot;,
+      &quot;lastName&quot; : &quot;bajaj&quot;,
+      &quot;avatarUrl&quot; : &quot;https://static1.squarespace.com/static/images/5ef9d49c3cfb5574eceaa302&quot;,
+      &quot;bio&quot; : &quot;&quot;,
+      &quot;avatarAssetUrl&quot; : &quot;https://static1.squarespace.com/static/images/5ef9d49c3cfb5574eceaa302&quot;
+    },
+    &quot;assetUrl&quot; : &quot;https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593460725676-3Q8OF09JLT8PF8EXKY0Y/ke17ZwdGBToddI8pDm48kK-6VZ_A-mpZPnQ1J7WFaxp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwD1g8DYbkhCsgrhnj8CXZYCD5bU3QvC-q6Z8ONLSlwiQbJQ0xI_XvgfUfYGy5Dpw/image-asset.jpeg&quot;,
+    &quot;contentType&quot; : &quot;image/jpeg&quot;,
+    &quot;items&quot; : [ ],
+    &quot;pushedServices&quot; : { },
+    &quot;pendingPushedServices&quot; : { },
+    &quot;recordTypeLabel&quot; : &quot;image&quot;,
+    &quot;originalSize&quot; : &quot;2500x1240&quot;
+  },
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot; : 50,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--left&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--bottom&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--narrow&quot;,
+  &quot;sectionTheme&quot; : &quot;dark&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+    
+  
+>
+  <div class="section-background">
+  
+    
+      
+      <img alt="" data-src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593460725676-3Q8OF09JLT8PF8EXKY0Y/ke17ZwdGBToddI8pDm48kK-6VZ_A-mpZPnQ1J7WFaxp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwD1g8DYbkhCsgrhnj8CXZYCD5bU3QvC-q6Z8ONLSlwiQbJQ0xI_XvgfUfYGy5Dpw/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593460725676-3Q8OF09JLT8PF8EXKY0Y/ke17ZwdGBToddI8pDm48kK-6VZ_A-mpZPnQ1J7WFaxp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwD1g8DYbkhCsgrhnj8CXZYCD5bU3QvC-q6Z8ONLSlwiQbJQ0xI_XvgfUfYGy5Dpw/image-asset.jpeg" data-image-dimensions="2500x1240" data-image-focal-point="0.5,0.5" alt=""  data-load="false" />
+      <div data-controller="SectionBackgroundOverlayController" data-image-overlay-opacity="0.15" class="section-background-overlay"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5ef9f972068552405e88f586"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-86bbd23a3d47d08c9abd"><div class="sqs-block-content"><h1 style="white-space:pre-wrap;">Latest News</h1></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--medium
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5efa48f7beec4e5604b04f3f"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--medium&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5efa48f7beec4e5604b04f3f"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-95ad93914af618d4b2da"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">Upcoming Webinars</h2></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-174732db6f4ff2450df2"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-448319a54ec0533c4fbf"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-large"><strong>June 28</strong></p><p style="text-align:center;white-space:pre-wrap;" class="">Cloud Integration - Whys and Hows</p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="http://squarespace.com" target="_blank">Get Tickets</a></p></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-2965b245b49d94ea58ad"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-a6c887ce90af0e2a2255"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-large"><strong>July 7</strong></p><p style="text-align:center;white-space:pre-wrap;" class="">Google Suites</p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="http://squarespace.com" target="_blank">Get Tickets</a></p></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-738caae435927850a341"><div class="sqs-block-content">&nbsp;</div></div></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>latest</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/contact</link>
+      <title>Contact</title>
+      <pubDate>Tue, 30 Jun 2020 12:16:26 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="5ef9f99a27513553d3640ca4" id="sections">
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--narrow
+    
+    horizontal-alignment--left
+    vertical-alignment--bottom
+     has-background
+    dark'
+  data-section-id="5ef9f99a27513553d3640ca7"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;backgroundImage&quot; : {
+    &quot;id&quot; : &quot;5efa3f7434314d7760cd3d8c&quot;,
+    &quot;recordType&quot; : 2,
+    &quot;addedOn&quot; : 1593458548379,
+    &quot;updatedOn&quot; : 1593519381302,
+    &quot;workflowState&quot; : 1,
+    &quot;publishOn&quot; : 1593458548379,
+    &quot;authorId&quot; : &quot;5ef9d49a4a784c25a1894b87&quot;,
+    &quot;systemDataId&quot; : &quot;1593458548415-M7MRJFO76ZUJL58B4BND&quot;,
+    &quot;systemDataVariants&quot; : &quot;2500x1667,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot; : &quot;JPG&quot;,
+    &quot;mediaFocalPoint&quot; : {
+      &quot;x&quot; : 0.5454545454545454,
+      &quot;y&quot; : 0.31052631578947365,
+      &quot;source&quot; : 3
+    },
+    &quot;colorData&quot; : {
+      &quot;topLeftAverage&quot; : &quot;a3dfe9&quot;,
+      &quot;topRightAverage&quot; : &quot;8b9ea8&quot;,
+      &quot;bottomLeftAverage&quot; : &quot;d3b58c&quot;,
+      &quot;bottomRightAverage&quot; : &quot;b39c8f&quot;,
+      &quot;centerAverage&quot; : &quot;748086&quot;,
+      &quot;suggestedBgColor&quot; : &quot;e0e0bc&quot;
+    },
+    &quot;urlId&quot; : &quot;7727czp12dahg4d68fvd7zjjdirg0v&quot;,
+    &quot;title&quot; : &quot;&quot;,
+    &quot;body&quot; : null,
+    &quot;likeCount&quot; : 0,
+    &quot;commentCount&quot; : 0,
+    &quot;publicCommentCount&quot; : 0,
+    &quot;commentState&quot; : 2,
+    &quot;unsaved&quot; : false,
+    &quot;author&quot; : {
+      &quot;id&quot; : &quot;5ef9d49a4a784c25a1894b87&quot;,
+      &quot;displayName&quot; : &quot;apoorva bajaj&quot;,
+      &quot;firstName&quot; : &quot;apoorva&quot;,
+      &quot;lastName&quot; : &quot;bajaj&quot;,
+      &quot;avatarUrl&quot; : &quot;https://static1.squarespace.com/static/images/5ef9d49c3cfb5574eceaa302&quot;,
+      &quot;bio&quot; : &quot;&quot;,
+      &quot;avatarAssetUrl&quot; : &quot;https://static1.squarespace.com/static/images/5ef9d49c3cfb5574eceaa302&quot;
+    },
+    &quot;assetUrl&quot; : &quot;https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593458548415-M7MRJFO76ZUJL58B4BND/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/image-asset.jpeg&quot;,
+    &quot;contentType&quot; : &quot;image/jpeg&quot;,
+    &quot;items&quot; : [ ],
+    &quot;pushedServices&quot; : { },
+    &quot;pendingPushedServices&quot; : { },
+    &quot;recordTypeLabel&quot; : &quot;image&quot;,
+    &quot;originalSize&quot; : &quot;2500x1667&quot;
+  },
+  &quot;imageOverlayOpacity&quot; : 0.22,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--small&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--left&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--bottom&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--narrow&quot;,
+  &quot;sectionTheme&quot; : &quot;dark&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+      
+      <img alt="" data-src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593458548415-M7MRJFO76ZUJL58B4BND/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593458548415-M7MRJFO76ZUJL58B4BND/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/image-asset.jpeg" data-image-dimensions="2500x1667" data-image-focal-point="0.5454545454545454,0.31052631578947365" alt=""  data-load="false" />
+      <div data-controller="SectionBackgroundOverlayController" data-image-overlay-opacity="0.22" class="section-background-overlay"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5ef9f99a27513553d3640ca7"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-643046d4a468a39c586e"><div class="sqs-block-content"><h1 style="white-space:pre-wrap;">Get in touch with Us. </h1></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5efa357bc8ae1024ed8ceab7"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5efa357bc8ae1024ed8ceab7"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-5 span-5"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-797573e803c9b8164e06"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">Contact us.</h2><p style="text-align:center;white-space:pre-wrap;" class="">It all begins with an Idea. Maybe you want to move partially to the cloud, or maybe you just need Online conferencing technical support. To help us serve you better, write to us describing your requirements and problems telling us what you want to achieve. You can write an email to us or Book an Appointment and we shall get back you!</p></div></div><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-19a865e01378a4494f01"><div class="sqs-block-content">
+
+
+
+<div class="sqs-svg-icon--outer social-icon-alignment-center social-icons-color- social-icons-size-small social-icons-style-regular " >
+  <nav class="sqs-svg-icon--list">
+    <a href="https://www.instagram.com/wfhintegrations/" target="_blank" class="sqs-svg-icon--wrapper instagram-unauth" aria-label="">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#instagram-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#instagram-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.facebook.com/WFH-Integrations-102739388152618/" target="_blank" class="sqs-svg-icon--wrapper facebook-unauth" aria-label="">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#facebook-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#facebook-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.linkedin.com/company/68125929" target="_blank" class="sqs-svg-icon--wrapper linkedin-unauth" aria-label="LinkedIn">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#linkedin-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#linkedin-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="mailto:wfhintegrations@gmail.com" target="_blank" class="sqs-svg-icon--wrapper email" aria-label="wfhintegrations@gmail.com">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#email-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#email-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div>
+</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-6e96f478074bc6d6bd00"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-5 span-5"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-57b99e04f3af3371f0b7"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;">wfhintegrations@gmail.com<br>+91 8779629724</h3><h3 style="text-align:center;white-space:pre-wrap;">Mumbai, India</h3></div></div></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    white'
+  data-section-id="5efa3568ede6517d68177a2d"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot; : 10,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot; : 50,
+  &quot;sectionTheme&quot; : &quot;white&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+    
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5efa3568ede6517d68177a2d"><div class="row sqs-row"><div class="col sqs-col-5 span-5"><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1593454829724_55772"><div class="sqs-block-content">
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="large">
+	<a href="https://wfhintegrations.appointlet.com/s/1-hour-consultation" class="sqs-block-button-element--large sqs-block-button-element" >Book Appointment</a>
+</div>
+</div></div></div><div class="col sqs-col-7 span-7"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-a73532180a3a19a6649d"><div class="sqs-block-content"><h2 style="white-space:pre-wrap;">Book an appointment.</h2><p class="" style="white-space:pre-wrap;">Book an Appointment with us so that we can understand you and your requirements much better. </p></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--narrow
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+     has-background
+    black'
+  data-section-id="5efa359009029f1bceaf932b"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;backgroundImage&quot; : {
+    &quot;id&quot; : &quot;5efa3b7fbc21403dd11cb9b3&quot;,
+    &quot;recordType&quot; : 2,
+    &quot;addedOn&quot; : 1593457535091,
+    &quot;updatedOn&quot; : 1593457576887,
+    &quot;workflowState&quot; : 1,
+    &quot;publishOn&quot; : 1593457535091,
+    &quot;authorId&quot; : &quot;5ef9d49a4a784c25a1894b87&quot;,
+    &quot;systemDataId&quot; : &quot;1593457566380-RSEV0VFG96E68YCA58X5&quot;,
+    &quot;systemDataVariants&quot; : &quot;2500x3813,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot; : &quot;JPG&quot;,
+    &quot;filename&quot; : &quot;surface-qjd6gO0dxxI-unsplash.jpg&quot;,
+    &quot;mediaFocalPoint&quot; : {
+      &quot;x&quot; : 0.5,
+      &quot;y&quot; : 0.5,
+      &quot;source&quot; : 3
+    },
+    &quot;colorData&quot; : {
+      &quot;topLeftAverage&quot; : &quot;423529&quot;,
+      &quot;topRightAverage&quot; : &quot;060e10&quot;,
+      &quot;bottomLeftAverage&quot; : &quot;5a4d3f&quot;,
+      &quot;bottomRightAverage&quot; : &quot;514235&quot;,
+      &quot;centerAverage&quot; : &quot;ab9286&quot;,
+      &quot;suggestedBgColor&quot; : &quot;312b1f&quot;
+    },
+    &quot;urlId&quot; : &quot;6qby2mn5qbnqfkat72uvf3ryyavcw4&quot;,
+    &quot;title&quot; : &quot;&quot;,
+    &quot;body&quot; : null,
+    &quot;likeCount&quot; : 0,
+    &quot;commentCount&quot; : 0,
+    &quot;publicCommentCount&quot; : 0,
+    &quot;commentState&quot; : 2,
+    &quot;unsaved&quot; : false,
+    &quot;author&quot; : {
+      &quot;id&quot; : &quot;5ef9d49a4a784c25a1894b87&quot;,
+      &quot;displayName&quot; : &quot;apoorva bajaj&quot;,
+      &quot;firstName&quot; : &quot;apoorva&quot;,
+      &quot;lastName&quot; : &quot;bajaj&quot;,
+      &quot;avatarUrl&quot; : &quot;https://static1.squarespace.com/static/images/5ef9d49c3cfb5574eceaa302&quot;,
+      &quot;bio&quot; : &quot;&quot;,
+      &quot;avatarAssetUrl&quot; : &quot;https://static1.squarespace.com/static/images/5ef9d49c3cfb5574eceaa302&quot;
+    },
+    &quot;assetUrl&quot; : &quot;https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593457566380-RSEV0VFG96E68YCA58X5/ke17ZwdGBToddI8pDm48kG-2FtWPCA5GQgu98Go1pPt7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0sofvP-RiTb638-KOMjny0vt4uOBy0ddqU5XQDYGpzE3L2Bq90tdSQ3dzjbntrGHFg/surface-qjd6gO0dxxI-unsplash.jpg&quot;,
+    &quot;contentType&quot; : &quot;image/jpeg&quot;,
+    &quot;items&quot; : [ ],
+    &quot;pushedServices&quot; : { },
+    &quot;pendingPushedServices&quot; : { },
+    &quot;recordTypeLabel&quot; : &quot;image&quot;,
+    &quot;originalSize&quot; : &quot;2500x3813&quot;
+  },
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--narrow&quot;,
+  &quot;sectionTheme&quot; : &quot;black&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+      
+      <img alt="" data-src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593457566380-RSEV0VFG96E68YCA58X5/ke17ZwdGBToddI8pDm48kG-2FtWPCA5GQgu98Go1pPt7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0sofvP-RiTb638-KOMjny0vt4uOBy0ddqU5XQDYGpzE3L2Bq90tdSQ3dzjbntrGHFg/surface-qjd6gO0dxxI-unsplash.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593457566380-RSEV0VFG96E68YCA58X5/ke17ZwdGBToddI8pDm48kG-2FtWPCA5GQgu98Go1pPt7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0sofvP-RiTb638-KOMjny0vt4uOBy0ddqU5XQDYGpzE3L2Bq90tdSQ3dzjbntrGHFg/surface-qjd6gO0dxxI-unsplash.jpg" data-image-dimensions="2500x3813" data-image-focal-point="0.5,0.5" alt="surface-qjd6gO0dxxI-unsplash.jpg"  data-load="false" />
+      <div data-controller="SectionBackgroundOverlayController" data-image-overlay-opacity="0.15" class="section-background-overlay"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5efa359009029f1bceaf932b"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-7e941368af5746bbb417"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">Enquire now</h2></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-f6ab377eba3ccaec921c"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block form-block sqs-block-form" data-block-type="9" id="block-66689e7f482b01a1b8d5"><div class="sqs-block-content">
+
+
+
+
+
+<div class="form-wrapper"
+  
+>
+  
+  <div class="form-inner-wrapper">
+    <form
+       data-form-id="5efa359009029f1bceaf9326"
+       data-success-redirect=""
+       autocomplete="on"
+       
+       method="POST"
+       action="https://elk-dog-dw3p.squarespace.com"
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '5efa359009029f1bceaf9326',
+      collectionId: '5ef9f99a27513553d3640ca5',
+      objectName: 'page-section-5efa359009029f1bceaf932b'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_1_1553888888520_3744" class="form-item fields name required">
+                
+            <legend class="title">
+              Name
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </legend>
+          
+                
+                <div class="field first-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="fname"
+                        x-autocompletetype="given-name"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="First"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">First Name</span>
+                  </label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="lname"
+                        x-autocompletetype="surname"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="Last"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">Last Name</span>
+                  </label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_1_1553888888520_3745" class="form-item field email required">
+                
+            <label class="title" for="email-yui_3_17_2_1_1553888888520_3745-field">
+              Email
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element"
+                    id="email-yui_3_17_2_1_1553888888520_3745-field"
+                    name="email"
+                    type="email"
+                    autocomplete="email"
+                    spellcheck="false"
+                    
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-yui_3_17_2_1_1553888888520_3747" class="form-item field textarea required">
+                
+            <label class="title" for="textarea-yui_3_17_2_1_1553888888520_3747-field">
+              Message
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <textarea
+                    class="field-element "
+                    id="textarea-yui_3_17_2_1_1553888888520_3747-field"
+                    
+                    aria-required="true"
+                ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div data-animation-role="button"
+        class="
+          form-button-wrapper
+          
+            form-button-wrapper--align-center
+          
+        "
+      >
+        <input class="button sqs-system-button sqs-editable-button" type="submit" value="Send"/>
+      </div>
+      
+
+      
+      <div class="hidden form-submission-text">Thank you!</div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>contact</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>4</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/trainings</link>
+      <title>Trainings</title>
+      <pubDate>Tue, 30 Jun 2020 11:59:40 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="5ef9fa3c67d0746239acae36" id="sections">
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--narrow
+    
+    horizontal-alignment--left
+    vertical-alignment--bottom
+     has-background
+    dark'
+  data-section-id="5ef9fa3c67d0746239acae39"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;backgroundImage&quot; : {
+    &quot;id&quot; : &quot;5efb11d385126e27837f2659&quot;,
+    &quot;recordType&quot; : 2,
+    &quot;addedOn&quot; : 1593512403203,
+    &quot;updatedOn&quot; : 1593512413652,
+    &quot;workflowState&quot; : 1,
+    &quot;publishOn&quot; : 1593512403203,
+    &quot;authorId&quot; : &quot;5ef9d49a4a784c25a1894b87&quot;,
+    &quot;systemDataId&quot; : &quot;1593512403242-EIZ8V4IA27MT8EBT71XZ&quot;,
+    &quot;systemDataVariants&quot; : &quot;2500x1667,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot; : &quot;JPG&quot;,
+    &quot;mediaFocalPoint&quot; : {
+      &quot;x&quot; : 0.5,
+      &quot;y&quot; : 0.5,
+      &quot;source&quot; : 3
+    },
+    &quot;colorData&quot; : {
+      &quot;topLeftAverage&quot; : &quot;c6ced4&quot;,
+      &quot;topRightAverage&quot; : &quot;c5d2e2&quot;,
+      &quot;bottomLeftAverage&quot; : &quot;768baa&quot;,
+      &quot;bottomRightAverage&quot; : &quot;0c305f&quot;,
+      &quot;centerAverage&quot; : &quot;1c2335&quot;,
+      &quot;suggestedBgColor&quot; : &quot;cdd4da&quot;
+    },
+    &quot;urlId&quot; : &quot;5g9fwodiyiysbuiom190ddb493bgf0&quot;,
+    &quot;title&quot; : &quot;&quot;,
+    &quot;body&quot; : null,
+    &quot;likeCount&quot; : 0,
+    &quot;commentCount&quot; : 0,
+    &quot;publicCommentCount&quot; : 0,
+    &quot;commentState&quot; : 2,
+    &quot;unsaved&quot; : false,
+    &quot;author&quot; : {
+      &quot;id&quot; : &quot;5ef9d49a4a784c25a1894b87&quot;,
+      &quot;displayName&quot; : &quot;apoorva bajaj&quot;,
+      &quot;firstName&quot; : &quot;apoorva&quot;,
+      &quot;lastName&quot; : &quot;bajaj&quot;,
+      &quot;avatarUrl&quot; : &quot;https://static1.squarespace.com/static/images/5ef9d49c3cfb5574eceaa302&quot;,
+      &quot;bio&quot; : &quot;&quot;,
+      &quot;avatarAssetUrl&quot; : &quot;https://static1.squarespace.com/static/images/5ef9d49c3cfb5574eceaa302&quot;
+    },
+    &quot;assetUrl&quot; : &quot;https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593512403242-EIZ8V4IA27MT8EBT71XZ/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/image-asset.jpeg&quot;,
+    &quot;contentType&quot; : &quot;image/jpeg&quot;,
+    &quot;items&quot; : [ ],
+    &quot;pushedServices&quot; : { },
+    &quot;pendingPushedServices&quot; : { },
+    &quot;recordTypeLabel&quot; : &quot;image&quot;,
+    &quot;originalSize&quot; : &quot;2500x1667&quot;
+  },
+  &quot;imageOverlayOpacity&quot; : 0.21,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot; : 50,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--left&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--bottom&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--narrow&quot;,
+  &quot;customContentWidth&quot; : 50,
+  &quot;sectionTheme&quot; : &quot;dark&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+    
+  
+>
+  <div class="section-background">
+  
+    
+      
+      <img alt="" data-src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593512403242-EIZ8V4IA27MT8EBT71XZ/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593512403242-EIZ8V4IA27MT8EBT71XZ/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/image-asset.jpeg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt=""  data-load="false" />
+      <div data-controller="SectionBackgroundOverlayController" data-image-overlay-opacity="0.21" class="section-background-overlay"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5ef9fa3c67d0746239acae39"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-6552997bf2d77a327c9b"><div class="sqs-block-content"><h1 style="white-space:pre-wrap;">Training Sessions</h1></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5efb13858ae4f77486416ad2"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot; : 10,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot; : 50,
+  &quot;backgroundColor&quot; : &quot;&quot;,
+  &quot;sectionTheme&quot; : &quot;&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+    
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5efb13858ae4f77486416ad2"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-cb458f337a42bb6dd2bb"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-collage
+            combination-animation-none
+            individual-animation-none
+            individual-text-animation-none
+            image-position-right
+            
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <div
+          
+              
+              class="
+                
+                image-inset
+                
+                  content-fit
+                
+              "
+              data-animation-role="image"
+              data-description=""
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593515352511-7Q4OODNYQ4J38I88KC27/ke17ZwdGBToddI8pDm48kJfIRI_c0fZQJiIfUS4OnPl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UYCjCl2RAeqyTUswYY0bd33PPO06_PF-tAh81p8cfbLxlPWfWuZThBL1HH2wXCtQvQ/image-asset.jpeg" alt="Google Suites Trainings - Learn how to make the most out of your G Suites Subscription by taking our training sessions" /></noscript>
+            <img data-src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593515352511-7Q4OODNYQ4J38I88KC27/ke17ZwdGBToddI8pDm48kJfIRI_c0fZQJiIfUS4OnPl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UYCjCl2RAeqyTUswYY0bd33PPO06_PF-tAh81p8cfbLxlPWfWuZThBL1HH2wXCtQvQ/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593515352511-7Q4OODNYQ4J38I88KC27/ke17ZwdGBToddI8pDm48kJfIRI_c0fZQJiIfUS4OnPl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UYCjCl2RAeqyTUswYY0bd33PPO06_PF-tAh81p8cfbLxlPWfWuZThBL1HH2wXCtQvQ/image-asset.jpeg" data-image-dimensions="1967x1414" data-image-focal-point="0.5,0.5" alt=""  />
+            <div class="image-overlay"></div>
+          
+            </div>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  
+><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><h3 style="white-space:pre-wrap;">Google Suites Trainings</h3></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  
+><p class="" style="white-space:pre-wrap;">Learn how to make the most out of your G Suites Subscription by taking our training sessions</p></div></div>
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5efb136524786312490e3162"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5efb136524786312490e3162"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-b387fdcf7edf38e56871"><div class="sqs-block-content"><h2 style="white-space:pre-wrap;">What you will learn </h2></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-fb2eea07d6a632abfe65"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-dc679cfca96f5d78aa90"><div class="sqs-block-content"><h4 style="white-space:pre-wrap;">Gmail for Business</h4><p class="" style="white-space:pre-wrap;">Learn how to use Gmail to its fullest capabilities with mail forwarding, selective mail filtering, Mail Automation, and 3rd party integrations into Gmail</p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-cb12f4088e06d06cea01"><div class="sqs-block-content"><h4 style="white-space:pre-wrap;">Google Docs, Sheets and Slides</h4><p class="" style="white-space:pre-wrap;">Learn to use the most popular collaborative working tools to create documents, spreadsheets and mind blowing presentations, handoff work between multiple devices and use Automation in Google Sheets for Data Analytics </p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-2cb3d475ec6d5b125104"><div class="sqs-block-content"><h4 style="white-space:pre-wrap;">Google Drive</h4><p class="" style="white-space:pre-wrap;">Learn how to create, manage and upload files in Google Drive, how to sync devices with google drive, create automated backups to drive, Enable restricted access to files and learn how to use data loss prevention and Vault for Drive</p></div></div></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-fe34e43e8ff45b040634"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-0f7c0e99b9847ded2239"><div class="sqs-block-content"><h4 style="white-space:pre-wrap;">Google Forms</h4><p class="" style="white-space:pre-wrap;">Learn how to create forms for all purposes from surveys to feedback and  event registrations. Learn how to use email validation and intelligent forms for authentic data. Learn how to analyse responses with automatic summaries</p></div></div></div><div class="col sqs-col-8 span-8"><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-358e898fc4dd061dab94"><div class="sqs-block-content"><h4 style="white-space:pre-wrap;">Google Sites</h4><p class="" style="white-space:pre-wrap;">Learn how to create your own free website without knowing any programming or design skills. Learn how to secure your website and optimise your site for all devices and browsers</p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-eb008b80d8a8ee1880f6"><div class="sqs-block-content"><h4 style="white-space:pre-wrap;">Google Meet and Chat</h4><p class="" style="white-space:pre-wrap;">Learn how to schedule meetings, use administrator features in Google meet, invite people, conduct webinars and conferences on Meet. Learn how to use Google Chat for Team collaboration and businesses </p></div></div></div></div></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1593513148467_27939"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1593513148467_18854"><div class="sqs-block-content"><h4 style="white-space:pre-wrap;">Google Calendar </h4><p class="" style="white-space:pre-wrap;">Learn how to use Google Calendar Integration features, how to schedule events and meetings from Calendars, how to sync all calendars and create common calendars for entire team or business </p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1593513148467_25046"><div class="sqs-block-content"><h4 style="white-space:pre-wrap;">Google Admin</h4><p class="" style="white-space:pre-wrap;">Learn how to use Google Admin to manage users in your organisation, create groups and teams, manage company resources and track activity of employees, setup security features for your account and more </p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1593513148467_30513"><div class="sqs-block-content"><h4 style="white-space:pre-wrap;">Google My Business</h4><p class="" style="white-space:pre-wrap;">Learn how to manage your business page on google, how to advertise with google advertising and use website analysis and web tracking for your business, update information about your services and products and more</p></div></div></div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1593517886426_16266"><div class="sqs-block-content">
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="medium">
+	<a href="https://forms.gle/cw5yG6vioTaLuVjD9" class="sqs-block-button-element--medium sqs-block-button-element" >Enquire Now</a>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5efb139d117a8171e634a40d"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot; : 10,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot; : 50,
+  &quot;backgroundColor&quot; : &quot;&quot;,
+  &quot;sectionTheme&quot; : &quot;&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+    
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5efb139d117a8171e634a40d"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-17a46e58d68fad3c5adb"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-collage
+            combination-animation-none
+            individual-animation-none
+            individual-text-animation-none
+            image-position-left
+            
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <div
+          
+              
+              class="
+                
+                image-inset
+                
+                  content-fit
+                
+              "
+              data-animation-role="image"
+              data-description=""
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593515513949-4P9DG320WU0AV3BJIBO2/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/image-asset.jpeg" alt="Online Classroom Platform Trainings - Learn how to use and make the most out of Online Classrooms and Sessions. Choose between Google Classroom and CANVAS Instructure to deliver your classes " /></noscript>
+            <img data-src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593515513949-4P9DG320WU0AV3BJIBO2/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593515513949-4P9DG320WU0AV3BJIBO2/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/image-asset.jpeg" data-image-dimensions="2500x1667" data-image-focal-point="0.33327132936507936,0.5059523809523809" alt=""  />
+            <div class="image-overlay"></div>
+          
+            </div>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  
+><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><h3 style="white-space:pre-wrap;">Online Classroom Platform Trainings</h3></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  
+><p class="" style="white-space:pre-wrap;">Learn how to use and make the most out of Online Classrooms and Sessions. Choose between Google Classroom and CANVAS Instructure to deliver your classes </p></div></div>
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--medium
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    '
+  data-section-id="5efb13b843a69115614e141b"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot; : 0.15,
+  &quot;video&quot; : {
+    &quot;playbackSpeed&quot; : 0.5,
+    &quot;filter&quot; : 1,
+    &quot;filterStrength&quot; : 0,
+    &quot;zoom&quot; : 0
+  },
+  &quot;backgroundWidth&quot; : &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot; : &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot; : &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot; : &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot; : &quot;content-width--medium&quot;,
+  &quot;sectionAnimation&quot; : &quot;none&quot;,
+  &quot;backgroundMode&quot; : &quot;image&quot;
+}"
+  data-animation="none"
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5efb13b843a69115614e141b"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-bc490e0d953b9a5e5500"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">Choose between the two most popular platforms</h2></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-883ea3c6585eacb7dec7"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1593515616936_15756"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-site-default
+          individual-animation-site-default
+          individual-text-animation-site-default
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1499.0px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+                style="padding-bottom:100.06671142578125%;"
+              
+              class="
+                image-block-wrapper
+                
+          
+        
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593516461273-AE1WE3HEYYEG0903VVMU/ke17ZwdGBToddI8pDm48kI0Gu2fkCAB2SjckBQdotn17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmFF4sHvmgi8rFwPHCWctdpkqLj4Z6dth-UXZTZgLUvHnR7wqSWv8pvabX_FgYZAmC/100.jpeg" alt="100.jpeg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593516461273-AE1WE3HEYYEG0903VVMU/ke17ZwdGBToddI8pDm48kI0Gu2fkCAB2SjckBQdotn17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmFF4sHvmgi8rFwPHCWctdpkqLj4Z6dth-UXZTZgLUvHnR7wqSWv8pvabX_FgYZAmC/100.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593516461273-AE1WE3HEYYEG0903VVMU/ke17ZwdGBToddI8pDm48kI0Gu2fkCAB2SjckBQdotn17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmFF4sHvmgi8rFwPHCWctdpkqLj4Z6dth-UXZTZgLUvHnR7wqSWv8pvabX_FgYZAmC/100.jpeg" data-image-dimensions="1499x1500" data-image-focal-point="0.5,0.5" alt="100.jpeg" data-load="false" data-image-id="5efb21ac36cf091faec39656" data-type="image" />
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1593516639008_20595"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class="">Canvas offers a wide range of features depending upon your needs. Learn how to make courses, pre recorded lectures, live lectures, take quizzes and assignments with plagiarism checker. Learn how to make announcements, give grades, and assign specific roles to teachers and administrators. </p></div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="100" data-block-type="5" id="block-yui_3_17_2_1_1593515616936_16921"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-site-default
+          individual-animation-site-default
+          individual-text-animation-site-default
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1600.0px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+                style="padding-bottom:100.0%;"
+              
+              class="
+                image-block-wrapper
+                
+          
+        
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593516557349-372KKE2S77KLIIA7HTZ6/ke17ZwdGBToddI8pDm48kMi38tw7zkfDmGvlHU-hVvIUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2drlbiNfk3EruvL6ooucMUl0-iAqFf4IJ2-8-m4UxZV6gG6v6ULRah83RgHXAWD5lbQ/google-classroom-cover.jpg" alt="google-classroom-cover.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593516557349-372KKE2S77KLIIA7HTZ6/ke17ZwdGBToddI8pDm48kMi38tw7zkfDmGvlHU-hVvIUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2drlbiNfk3EruvL6ooucMUl0-iAqFf4IJ2-8-m4UxZV6gG6v6ULRah83RgHXAWD5lbQ/google-classroom-cover.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ef9f78a69114e72a0bbbb87/1593516557349-372KKE2S77KLIIA7HTZ6/ke17ZwdGBToddI8pDm48kMi38tw7zkfDmGvlHU-hVvIUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2drlbiNfk3EruvL6ooucMUl0-iAqFf4IJ2-8-m4UxZV6gG6v6ULRah83RgHXAWD5lbQ/google-classroom-cover.jpg" data-image-dimensions="1600x800" data-image-focal-point="0.5,0.5" alt="google-classroom-cover.jpg" data-load="false" data-image-id="5efb220c9df71d041cded769" data-type="image" />
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1593516639008_21573"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class="">Google Classroom comes as a part of Google Suites for Education. Learn how to make classrooms, post lecture materials, take online classes, give assignments, take quizzes, see student progress and how to integrate google classroom with third party applications</p></div></div></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-6901b4eb4a80b1ae8837"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-62878d5cd9be03c6628b"><div class="sqs-block-content">
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="medium">
+	<a href="https://forms.gle/cw5yG6vioTaLuVjD9" class="sqs-block-button-element--medium sqs-block-button-element" >Enquire Now</a>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>trainings</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>5</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
